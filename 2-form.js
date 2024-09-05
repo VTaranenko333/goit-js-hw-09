@@ -49,5 +49,5 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";const o="feedback-form-state
   .feedback-form button[type="submit"]:hover {
     background: #6c8cff;
   }
-`,r=document.createElement("style");r.type="text/css";r.innerText=s;document.head.appendChild(r);
+`,r=document.createElement("style");r.innerText=s;document.head.appendChild(r);
 //# sourceMappingURL=2-form.js.map
