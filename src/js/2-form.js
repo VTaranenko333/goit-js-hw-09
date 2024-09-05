@@ -98,10 +98,7 @@ const styles = `
   }
 `;
 
-// Створення елемента <style>
 const styleSheet = document.createElement('style');
-styleSheet.type = 'text/css';
 styleSheet.innerText = styles;
 
-// Додаємо стилі в head
 document.head.appendChild(styleSheet);
